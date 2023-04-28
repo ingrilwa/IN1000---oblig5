@@ -1,0 +1,6 @@
+Skulderbredde 4
+Halsvidde 3
+Livvidde 10
+Hoftebredde 16
+Innerbenlengde 23
+Benlengde 34
